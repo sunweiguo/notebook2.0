@@ -3,9 +3,6 @@
 
 笔记地址为：https://sunweiguo.github.io/ 持续更新中，readme为2019/3/4快照，更新内容见站点文章汇总.
 
-:point_right:请先移步这里:point_up::point_up::point_up::top::top::top:本文为置顶文章，为了方便管理和查阅，在这里详细展示目录索引，看完索引，你就知道本站的大体内容啦！我相信一定会给小伙伴们一些收获！:running::running::running::running:持续更新中！
-<!-- more -->
-
 ## <font id="top" href="#">导航</font>
 
 <br>
