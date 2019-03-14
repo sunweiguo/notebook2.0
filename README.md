@@ -30,7 +30,7 @@
 		<tr>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/network">网络相关</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/java-collection">JAVA容器</a></td>
-			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/linux">Linux</a></td>
+			<td align="center">外面几个文件</td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/JVM">JVM</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/java-basic">java基础</a></td>
 		</tr>
@@ -86,19 +86,8 @@
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/zookeeper">zookeeper</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/miscellany">杂记</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/suibi">随笔</a></td>
-			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/mygithub">github</a></td>
-		</tr>
-	</tbody>
-	<thead>
-		<tr>
-			<th align="center"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">🐫</g-emoji></th>
-			<th align="center"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">🐙</g-emoji></th>
-		</tr>
-	</thead>
-		<tbody>
-		<tr>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/front">前端学习</a></td>
-			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/big-data">大数据相关-暂无</a></td>
 		</tr>
 	</tbody>
+	
 </table>
