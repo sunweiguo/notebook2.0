@@ -64,10 +64,10 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/algorithms-leetcode-small">leetcode精简</a></td>
-			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/algorithms-leetcode-large">leetcode刷题-暂无</a></td>
+			<td align="center"><a href="#">leetcode精简-暂无</a></td>
+			<td align="center"><a href="#">leetcode刷题-暂无</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/spring-interview">spring面试</a></td>
-			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/spring-code">spring源码-暂无</a></td>
+			<td align="center"><a href="#">spring源码-暂无</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/design-pattern">设计模式</a></td>
 		</tr>
 	</tbody>
