@@ -11,12 +11,12 @@
 	<span style="color: green;">"Repetition is the mother of all learning."</span>
 </div>
 
-注：由于部分反映hexo博客无法打开访问，我也实在不知道是咋回事，很是心累，因为我自己90%可以访问，但是10%也会抽风，难道是apollo主题的问题？以前其他主题好像没有出现过这种问题，竟然拒绝我的访问。所以在这里把博客上的内容备份一遍，整体效果肯定要差很多，但是总比访问不了强。图片有的时候比较多，加载比较慢，这个我也没办法 ^^!，随着内容增多，github维护博客真的好累，未来将寻求更好的方式，最好star一下把，说不定哪天我就换二级域名或者直接换域名了^-^.
+> 注：由于部分反映hexo博客无法打开访问，我也实在不知道是咋回事，很是心累，因为我自己90%可以访问，但是10%也会抽风，难道是apollo主题的问题？以前其他主题好像没有出现过这种问题，竟然拒绝我的访问。所以在这里把博客上的内容备份一遍，整体效果肯定要差很多，但是总比访问不了强。图片有的时候比较多，加载比较慢，这个我也没办法 ^^!，随着内容增多，github维护博客真的好累，未来将寻求更好的方式，最好star一下把，说不定哪天我就换二级域名或者直接换域名了^-^.
 
 ## <font id="top" href="#">导航</font>
 
 <br>
-<table>
+<table style="text-align: center;">
 	<thead>
 		<tr>
 			<th align="center"><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">🐀</g-emoji></th>
