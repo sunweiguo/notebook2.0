@@ -1,9 +1,7 @@
 # notebook2.0
 笔记2.0升级
 
-笔记地址为：https://sunweiguo.github.io/ 持续更新中，readme为2019/3/4快照，更新内容见站点文章汇总.
-
-注:下面的内容看看就好了，获取更好的体验还是去hexo博客中看，这里只是简单列一下，效果没了，也不想折腾。
+笔记地址为：https://sunweiguo.github.io/ 持续更新中。创建此项目的目的在于hexo apollo主题经常发现无法查看笔记的情况，所以将笔记的内容也在此项目进行相应维护。
 
 ## <font id="top" href="#">导航</font>
 
