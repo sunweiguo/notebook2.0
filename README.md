@@ -46,7 +46,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/java-thread">java多线程</a></td>
+			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/thread">java多线程</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/redis">redis</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/mysql">mysql</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/algorithms-basic">算法</a></td>
