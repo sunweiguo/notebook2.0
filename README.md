@@ -50,7 +50,7 @@
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/redis">redis</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/mysql">mysql</a></td>
 			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/algorithms-basic">算法</a></td>
-			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/algorithms-offer">剑指offer题解</a></td>
+			<td align="center"><a href="https://github.com/sunweiguo/notebook2.0/tree/master/%E5%89%91%E6%8C%87offer">剑指offer题解</a></td>
 		</tr>
 	</tbody>
 	<thead>
