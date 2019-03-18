@@ -2,7 +2,7 @@ title: Condition详解
 tag: java多线程
 ---
 
-在[线程间通信方式总结](http://fourcolor.oursnail.cn/2019/02/13/thread/%E7%BA%BF%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/)中有一个需求：轮流打印奇数和偶数，我们用wait和notify实现了一下，但是这种方式存在弊端，就是不能精确控制唤醒哪个线程，比如现在有一个需求是轮流打印ABC该怎么办呢？
+在[线程间通信方式总结](http://fossi.oursnail.cn/2019/02/13/thread/%E7%BA%BF%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E6%96%B9%E5%BC%8F%E6%80%BB%E7%BB%93/)中有一个需求：轮流打印奇数和偶数，我们用wait和notify实现了一下，但是这种方式存在弊端，就是不能精确控制唤醒哪个线程，比如现在有一个需求是轮流打印ABC该怎么办呢？
 
 <!-- more -->
 

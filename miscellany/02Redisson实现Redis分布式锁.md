@@ -1,7 +1,7 @@
 title: Redisson实现Redis分布式锁原理
 tag: miscellany
 ---
-我们可以自己来实现一个<a href="http://fourcolor.oursnail.cn/2019/01/22/miscellany/03redis%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/">redis分布式锁</a>，但是如何用Redisson优雅地实现呢？本文探讨一下它的原理。
+我们可以自己来实现一个<a href="http://fossi.oursnail.cn/2019/01/22/miscellany/03redis%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/">redis分布式锁</a>，但是如何用Redisson优雅地实现呢？本文探讨一下它的原理。
 <!-- more -->
 
 用`Redisson`来实现分布式锁异常地简单，形如：

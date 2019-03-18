@@ -73,7 +73,7 @@ public static void main(String[] args) {
 
 > String类的`intern()`方法，使得运行时将堆中产生的对象放入常量池中，所以是true。
 
-这里我在[java字符串核心一网打尽](http://fourcolor.oursnail.cn/2019/01/23/java-basic/java%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%B8%E5%BF%83%E4%B8%80%E7%BD%91%E6%89%93%E5%B0%BD/)中已经详细说明了，不再赘述。
+这里我在[java字符串核心一网打尽](http://fossi.oursnail.cn/2019/01/23/java-basic/java%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%B8%E5%BF%83%E4%B8%80%E7%BD%91%E6%89%93%E5%B0%BD/)中已经详细说明了，不再赘述。
 
 ## 四、对象探秘
 

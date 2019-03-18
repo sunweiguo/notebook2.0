@@ -55,7 +55,7 @@ java -Xms128m -Xmx128m -Xss256k -jar xxx.jar
 ## 四、再来说说字符串
 
 
-之前在[java字符串核心一网打尽](http://fourcolor.oursnail.cn/2019/01/23/java-basic/java%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%B8%E5%BF%83%E4%B8%80%E7%BD%91%E6%89%93%E5%B0%BD/)文章中，其实是对于JDK8这个版本的字符串特性进行详细的解读，其中也介绍了`intern`这个方法的含义和用法，由于JDK6和JDK6+关于`intern`是不一样的，这里对比一下。
+之前在[java字符串核心一网打尽](http://fossi.oursnail.cn/2019/01/23/java-basic/java%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%A0%B8%E5%BF%83%E4%B8%80%E7%BD%91%E6%89%93%E5%B0%BD/)文章中，其实是对于JDK8这个版本的字符串特性进行详细的解读，其中也介绍了`intern`这个方法的含义和用法，由于JDK6和JDK6+关于`intern`是不一样的，这里对比一下。
 
 对于JDK8：
 

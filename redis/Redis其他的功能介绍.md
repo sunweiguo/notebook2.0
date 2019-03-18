@@ -242,7 +242,7 @@ public void test2(){
 
 存储经纬度、计算两地距离、范围计算等。
 
-提到`LBS(Location Based Service)`，基于位置的服务。我立即想起`Mongodb`的`GEO`实现地理坐标查询等功能，具体介绍为[地理位置附近查询的GEOHASH解决方案](http://fourcolor.oursnail.cn/2019/01/29/miscellany/12%E5%9C%B0%E7%90%86%E4%BD%8D%E7%BD%AE%E9%99%84%E8%BF%91%E6%9F%A5%E8%AF%A2%E7%9A%84GEOHASH%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)。
+提到`LBS(Location Based Service)`，基于位置的服务。我立即想起`Mongodb`的`GEO`实现地理坐标查询等功能，具体介绍为[地理位置附近查询的GEOHASH解决方案](http://fossi.oursnail.cn/2019/01/29/miscellany/12%E5%9C%B0%E7%90%86%E4%BD%8D%E7%BD%AE%E9%99%84%E8%BF%91%E6%9F%A5%E8%AF%A2%E7%9A%84GEOHASH%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/)。
 
 `mongodb`最大的特点是灵活，因为其数据是以`json`的格式存储，所以字段随时可以增加或减少；`Redis`的特点是快，适合单一的，简单的，大量数据的存储；`HBase`我没有做深入研究，它的特点是大，适合做离线缓存。在处理社交这种关系复杂的数据存储时，依然还是需要用`mysql`这种关系型数据库，`nosql`并不能完全替代。
 

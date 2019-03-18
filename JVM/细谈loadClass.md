@@ -2,7 +2,7 @@ title: 细谈loadClass
 tag: JVM
 ---
 
-本篇为学习JAVA虚拟机的第四篇文章，对于获取Class对象，其实我们不知不觉中已经接触过两种了，一种就是loadClass，一种就是[反射](http://fourcolor.oursnail.cn/2019/02/04/java-basic/%E5%BD%BB%E5%BA%95%E7%90%86%E8%A7%A3java%E5%8F%8D%E5%B0%84/)中的forName，它们到底有什么区别呢？其实涉及了类加载过程的区别。下面好好来探讨一下。
+本篇为学习JAVA虚拟机的第四篇文章，对于获取Class对象，其实我们不知不觉中已经接触过两种了，一种就是loadClass，一种就是[反射](http://fossi.oursnail.cn/2019/02/04/java-basic/%E5%BD%BB%E5%BA%95%E7%90%86%E8%A7%A3java%E5%8F%8D%E5%B0%84/)中的forName，它们到底有什么区别呢？其实涉及了类加载过程的区别。下面好好来探讨一下。
 
 <!-- more -->
 

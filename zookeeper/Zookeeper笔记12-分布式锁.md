@@ -1,12 +1,12 @@
 title: Zookeeper笔记12-分布式锁
 tag: zookpeeper
 ---
-分布式锁在分布式系统中是非常常见的，redis以及ZK都可以实现分布式锁，在文章[Curator](http://fourcolor.oursnail.cn/2019/01/23/miscellany/07Curator%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/)从实战的层面进行了实际的分布式锁的实现，具体看这个文章即可。下面是再唠叨唠叨。
+分布式锁在分布式系统中是非常常见的，redis以及ZK都可以实现分布式锁，在文章[Curator](http://fossi.oursnail.cn/2019/01/23/miscellany/07Curator%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/)从实战的层面进行了实际的分布式锁的实现，具体看这个文章即可。下面是再唠叨唠叨。
 <!-- more -->
 
 ## redis实现分布式锁
 
-之前，在[redis实现分布式锁](http://fourcolor.oursnail.cn/2019/01/22/miscellany/03redis%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/)实现过一个基于redis的分布式锁，用来保证一个系统去定时关单。
+之前，在[redis实现分布式锁](http://fossi.oursnail.cn/2019/01/22/miscellany/03redis%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/)实现过一个基于redis的分布式锁，用来保证一个系统去定时关单。
 
 ![image](http://bloghello.oursnail.cn/redis%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81V2.png)
 

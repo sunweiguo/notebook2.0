@@ -157,7 +157,7 @@ Spring AOP使用动态代理技术在运行期织入增强的代码，Spring AOP
 
 Java1.3后，Java提供了动态代理技术，运行开发者在运行期间创建接口的代理实例。JDK动态代理主要涉及`java.lang.reflect`包中的两个类：`Proxy`和`InvocationHandler`。`InvocationHandler`是一个接口，可以通过实现该接口定义横切逻辑，并通过反射机制调用目标类的代码，动态地将横切逻辑和业务逻辑编织在一起。
 
-具体请看笔记[java基础之JDK动态代理](http://fourcolor.oursnail.cn/2019/02/17/java-basic/java%E5%9F%BA%E7%A1%80%E4%B9%8BJDK%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/)
+具体请看笔记[java基础之JDK动态代理](http://fossi.oursnail.cn/2019/02/17/java-basic/java%E5%9F%BA%E7%A1%80%E4%B9%8BJDK%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86/)
 
 
 ##### 3.2 CGLib动态代理

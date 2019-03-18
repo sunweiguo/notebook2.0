@@ -1,7 +1,7 @@
 title: Redis-Cluster理论详解
 tag: redis
 ---
-本文为redis学习笔记的第八篇文章。[上一篇](http://fourcolor.oursnail.cn/2019/02/01/redis/Redis-Sentinel%E5%AE%9E%E7%8E%B0%E9%AB%98%E5%8F%AF%E7%94%A8%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB/)我们学习了redis sentinel，知道了它是redis高可用的一种实现方案。但是面对要求很高的场景，一台master是一定不能解决问题的，redis 3.0给我们带来了服务端集群方案，解决了这个问题。
+本文为redis学习笔记的第八篇文章。[上一篇](http://fossi.oursnail.cn/2019/02/01/redis/Redis-Sentinel%E5%AE%9E%E7%8E%B0%E9%AB%98%E5%8F%AF%E7%94%A8%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB/)我们学习了redis sentinel，知道了它是redis高可用的一种实现方案。但是面对要求很高的场景，一台master是一定不能解决问题的，redis 3.0给我们带来了服务端集群方案，解决了这个问题。
 
 <!-- more -->
 
@@ -24,7 +24,7 @@ tag: redis
 对于上面提到的直接hash取余的方式，会导致大量数据的迁移。那么有没有一种方式，在增加或减少节点时，只有少部分数据迁移呢？
 
 
-针对一致性`hash`算法，已经在[简明理解一致性hash算法](http://fourcolor.oursnail.cn/2019/02/01/miscellany/15%E7%AE%80%E6%98%8E%E7%90%86%E8%A7%A3%E4%B8%80%E8%87%B4%E6%80%A7hash%E7%AE%97%E6%B3%95/)中详细说明了，不再赘述。
+针对一致性`hash`算法，已经在[简明理解一致性hash算法](http://fossi.oursnail.cn/2019/02/01/miscellany/15%E7%AE%80%E6%98%8E%E7%90%86%E8%A7%A3%E4%B8%80%E8%87%B4%E6%80%A7hash%E7%AE%97%E6%B3%95/)中详细说明了，不再赘述。
 
 
 

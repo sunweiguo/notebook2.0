@@ -16,7 +16,7 @@ tag: java多线程
 
 
 
-在[JAVA内存模型-线程共享](http://fourcolor.oursnail.cn/2019/02/05/JVM/JAVA%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B-%E7%BA%BF%E7%A8%8B%E5%85%B1%E4%BA%AB/)这篇文章中介绍了对象头里面的基本构成。
+在[JAVA内存模型-线程共享](http://fossi.oursnail.cn/2019/02/05/JVM/JAVA%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B-%E7%BA%BF%E7%A8%8B%E5%85%B1%E4%BA%AB/)这篇文章中介绍了对象头里面的基本构成。
 
 ![image](http://bloghello.oursnail.cn/thread6-1.jpg)
 

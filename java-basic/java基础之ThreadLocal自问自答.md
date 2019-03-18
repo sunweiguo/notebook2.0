@@ -75,7 +75,7 @@ tag: java基础
 
 ### 问题5：ThreadLocalMap中的存储实体Entry使用ThreadLocal作为key，但这个Entry是继承弱引用WeakReference的，为什么要这样设计，使用了弱引用WeakReference会造成内存泄露问题吗？
 
-参考上一篇[文章](http://fourcolor.oursnail.cn/2019/02/20/java-basic/java%E5%9F%BA%E7%A1%80%E4%B9%8BThreadLocal%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E9%97%AE%E9%A2%98/)。
+参考上一篇[文章](http://fossi.oursnail.cn/2019/02/20/java-basic/java%E5%9F%BA%E7%A1%80%E4%B9%8BThreadLocal%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E9%97%AE%E9%A2%98/)。
 
 ### 问题6：ThreadLocal和synchronized的区别?
 

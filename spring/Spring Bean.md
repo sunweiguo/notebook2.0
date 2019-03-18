@@ -14,7 +14,7 @@ tag: spring面试
 - `session`：会为每个session创建一个Bean实例
 - `globalSession`：会为每个全局Http Session创建一个Bean实例，该作用域仅对Portlet有效
 
-对于这个问题面试中我也被问过，即spring中bean默认作用域，如何设置为多例。这个问题我在[注解--组件注册](http://fourcolor.oursnail.cn/2019/03/03/spring/%E6%B3%A8%E8%A7%A3--%E7%BB%84%E4%BB%B6%E6%B3%A8%E5%86%8C/)这篇文章中会详细谈论。
+对于这个问题面试中我也被问过，即spring中bean默认作用域，如何设置为多例。这个问题我在[注解--组件注册](http://fossi.oursnail.cn/2019/03/03/spring/%E6%B3%A8%E8%A7%A3--%E7%BB%84%E4%BB%B6%E6%B3%A8%E5%86%8C/)这篇文章中会详细谈论。
 
 ## 二、Bean的生命周期
 
@@ -80,4 +80,4 @@ tag: spring面试
 和`init-method`一样，通过给`destroy-method`指定函数，就可以在bean销毁前执行指定的逻辑。
 
 
-对于上面的过程只能理解并且记忆，还是很容易被问到的，是spring的一个高频考点。或许你对这些所说的方法一脸懵逼，对于生命周期这一块，我对里面涉及的所有初始化以及销毁方法进行了汇总，详情见文章:[注解-生命周期](http://fourcolor.oursnail.cn/2019/03/03/spring/%E6%B3%A8%E8%A7%A3-%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
+对于上面的过程只能理解并且记忆，还是很容易被问到的，是spring的一个高频考点。或许你对这些所说的方法一脸懵逼，对于生命周期这一块，我对里面涉及的所有初始化以及销毁方法进行了汇总，详情见文章:[注解-生命周期](http://fossi.oursnail.cn/2019/03/03/spring/%E6%B3%A8%E8%A7%A3-%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
